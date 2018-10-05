@@ -1,6 +1,8 @@
 # 데이터 가져오기
 
 
+<br>
+
 - ### 단일 칼럼 가져오기
 
 ```sql
@@ -22,6 +24,7 @@ Raggedy Ann
 */
 ```
 
+<br>
 
 - ### 다중 칼럼 가져오기
 
@@ -43,6 +46,7 @@ Queen doll	RYL02	9.49
 */
 ```
 
+<br>
 
 - ### 모든 칼럼가져오기
 
@@ -65,7 +69,10 @@ RYL02	FNG01	Queen doll	9.49	12 inch queen doll with royal garments and crown
 
 ```
 
+<br>
+
 - ### 중복행 출력 방지하기
+
 
 ```sql
 
@@ -77,6 +84,25 @@ from Products
 BRS01
 DLL01
 FNG01
+*/
+
+```
+
+<br>
+
+- ### 결과 제한하기
+
+```sql
+select vend_id
+from Products
+LIMIT 5;
+
+/*
+BRS01
+BRS01
+BRS01
+DLL01
+DLL01
 */
 
 ```
