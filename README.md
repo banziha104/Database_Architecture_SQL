@@ -23,7 +23,7 @@
 
 - ### [데이터 정렬하기](https://github.com/banziha104/Database_Architecture_SQL/blob/master/markdown_sql/02_SORT.md)
 
-- ### [테이블 설계 원칙](https://github.com/banziha104/Database_Architecture_SQL/blob/master/markdown_sql/03_Filtering.md)
+- ### [데이터 필터링](https://github.com/banziha104/Database_Architecture_SQL/blob/master/markdown_sql/03_Filtering.md)
 
 - ### [데이터 조작 함수](https://github.com/banziha104/Database_Architecture_SQL/blob/master/markdown_sql/04_Data_Function.md)
 
