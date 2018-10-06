@@ -44,6 +44,8 @@ The Toy Store
 
 <br>
 
+---
+
 # 고급 데이터 필터링
 
 <br>
@@ -146,4 +148,44 @@ Queen doll
 
 <br>
 
+---
+
 # 와일드카드 문자를 이용한 필터링
+
+- ### % 와일드카드
+
+```sql
+select prod_id,prod_name
+from Products
+where prod_name like 'Fish%' # %는 임의의 문자
+
+
+/*
+BNBG01	Fish bean bag toy
+*/
+
+select prod_id,prod_name
+from Products
+where prod_name like '%bean bag%'
+
+/*
+BNBG01	Fish bean bag toy
+BNBG02	Bird bean bag toy
+BNBG03	Rabbit bean bag toy
+*/
+
+```
+
+- ### _ 와일드카드
+
+
+```sql
+select prod_id,prod_name
+from Products
+where prod_name like '__ inch teddy bear' # %와 같이 문자를 대신하지만 _ 한개당 한개의 문자만 대신한다
+
+/*
+BR02	12 inch teddy bear
+BR03	18 inch teddy bear
+*/
+```
