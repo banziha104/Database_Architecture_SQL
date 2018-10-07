@@ -27,3 +27,10 @@
 
 - ### [데이터 조작 함수](https://github.com/banziha104/Database_Architecture_SQL/blob/master/markdown_sql/04_Data_Function.md)
 
+- ### [데이터 요약 함수](https://github.com/banziha104/Database_Architecture_SQL/blob/master/markdown_sql/05_GroupFuntion.md)
+
+- ### [데이터 그룹핑](https://github.com/banziha104/Database_Architecture_SQL/blob/master/markdown_sql/06_Grouping.md)
+
+- ### [서브 쿼리](https://github.com/banziha104/Database_Architecture_SQL/blob/master/markdown_sql/07_Sub_Query.md)
+
+- ### []()

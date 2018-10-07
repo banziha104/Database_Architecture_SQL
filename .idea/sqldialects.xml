@@ -3,5 +3,6 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/markdown_sql/02_SORT.md" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/markdown_sql/03_Filtering.md" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/markdown_sql/06_Grouping.md" dialect="MySQL" />
   </component>
 </project>
