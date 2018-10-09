@@ -33,4 +33,16 @@
 
 - ### [서브 쿼리](https://github.com/banziha104/Database_Architecture_SQL/blob/master/markdown_sql/07_Sub_Query.md)
 
-- ### []()
+- ### [조인](https://github.com/banziha104/Database_Architecture_SQL/blob/master/markdown_sql/08_Join.md)
+
+- ### [삽입하기](https://github.com/banziha104/Database_Architecture_SQL/blob/master/markdown_sql/09_Insert.md)
+
+- ### [수정과 삭제](https://github.com/banziha104/Database_Architecture_SQL/blob/master/markdown_sql/10_Update_Delete.md)
+
+- ### [테이블](https://github.com/banziha104/Database_Architecture_SQL/blob/master/markdown_sql/11_Table.md)
+
+- ### [뷰](https://github.com/banziha104/Database_Architecture_SQL/blob/master/markdown_sql/12_View.md)
+
+- ### [제약조건](https://github.com/banziha104/Database_Architecture_SQL/blob/master/markdown_sql/13_Database_Controller.md)
+
+
