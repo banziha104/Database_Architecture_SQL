@@ -10,6 +10,8 @@
 
 - ### [테이블 설계 원칙](https://github.com/banziha104/Database_Architecture_SQL/blob/master/markdown_arch/03_Table.md)
 
+- ### [키 설계 원칙](https://github.com/banziha104/Database_Architecture_SQL/blob/master/markdown_arch/04_Key.md)
+
 
 <br>
 
